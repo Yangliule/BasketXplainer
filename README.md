@@ -1,6 +1,6 @@
-# Project Title
+# BasketXplainer - course project at ETH
 
-[[_TOC_]]
+## This repo only contains part of the code. To see the up and running webapp, please visit: http://b5-winning-in-basketball.course-xai-iml23.isginf.ch/
 
 ## Team Members
 1. Dustin Brunner
